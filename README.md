@@ -1,7 +1,7 @@
 # 🃏Blackjack Card Game; A Web-Based Interactive Casino Game
 
 
-## **'📝Intro**
+## **📝Intro**
 A fully functional, browser-based Blackjack game built with vanilla HTML, CSS, and JavaScript. This project simulates the classic casino card game where players aim to get a hand value as close to 21 as possible without going over. The game features intuitive controls, real-time card tracking, and dynamic game state management, providing an engaging single-player Blackjack experience.
 
 ## **⚙️Tools and Tech**
