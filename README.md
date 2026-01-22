@@ -1,7 +1,5 @@
 # Blackjack Card Game; A Web-Based Interactive Casino Game
 
-## **Title**
-**Blackjack Card Game** – A Web-Based Interactive Casino Game
 
 ## **Intro**
 A fully functional, browser-based Blackjack game built with vanilla HTML, CSS, and JavaScript. This project simulates the classic casino card game where players aim to get a hand value as close to 21 as possible without going over. The game features intuitive controls, real-time card tracking, and dynamic game state management, providing an engaging single-player Blackjack experience.
@@ -11,7 +9,7 @@ A fully functional, browser-based Blackjack game built with vanilla HTML, CSS, a
 - **CSS3** – Styling and visual presentation
 - **Vanilla JavaScript (ES6+)** – Game logic and interactivity
 - **DOM Manipulation** – Real-time UI updates
-- **Git** (assumed) – Version control
+- **Github** – Project display
 - **VS Code / Any Text Editor** – Development environment
 - **Modern Web Browser** – Runtime environment (Chrome, Firefox, Safari, etc.)
 
@@ -68,6 +66,8 @@ A fully functional, browser-based Blackjack game built with vanilla HTML, CSS, a
 
 4. **Restarting**: Refresh browser page to reset completely
 
+
+
 ## **Project Preview**
 The game presents a classic casino-themed interface:
 - **Color Scheme**: Dark green background with goldenrod accents
@@ -80,6 +80,15 @@ The game presents a classic casino-themed interface:
   - Running sum calculation
   - Two primary buttons: START GAME and NEW CARD
   - Player information section (currently placeholder)
+ 
+## **Potential Enhancements**
+1. Player chip system and betting
+2. Dealer AI with turn-based gameplay
+3. Multiple round tracking
+4. Sound effects and animations
+5. Mobile-responsive refinements
+6. Ace value choice (1 or 11)
+7. Game history and statistics
 
 ## **Code Structure Highlights**
 - **Modular Functions**: Each game action is handled by separate, reusable functions
@@ -89,7 +98,6 @@ The game presents a classic casino-themed interface:
 - **Randomization**: Proper card probability distribution (1-14 range for all card types)
 
 
-
 ---
-
 **The game is fully functional and ready to play!** The clean separation of concerns (HTML structure, CSS presentation, JavaScript logic) makes the code maintainable and extendable for future features.
+
