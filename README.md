@@ -1,6 +1,4 @@
-## Blackjack Card Game; A Web-Based Interactive Casino Game
-
-# Blackjack Game - Project Documentation
+# Blackjack Card Game; A Web-Based Interactive Casino Game
 
 ## **Title**
 **Blackjack Card Game** – A Web-Based Interactive Casino Game
