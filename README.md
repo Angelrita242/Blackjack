@@ -1,10 +1,10 @@
-# Blackjack Card Game; A Web-Based Interactive Casino Game
+# 🃏Blackjack Card Game; A Web-Based Interactive Casino Game
 
 
-## **Intro**
+## **'📝Intro**
 A fully functional, browser-based Blackjack game built with vanilla HTML, CSS, and JavaScript. This project simulates the classic casino card game where players aim to get a hand value as close to 21 as possible without going over. The game features intuitive controls, real-time card tracking, and dynamic game state management, providing an engaging single-player Blackjack experience.
 
-## **Tools and Tech**
+## **⚙️Tools and Tech**
 - **HTML5** – Game structure and semantic markup
 - **CSS3** – Styling and visual presentation
 - **Vanilla JavaScript (ES6+)** – Game logic and interactivity
@@ -13,7 +13,7 @@ A fully functional, browser-based Blackjack game built with vanilla HTML, CSS, a
 - **VS Code / Any Text Editor** – Development environment
 - **Modern Web Browser** – Runtime environment (Chrome, Firefox, Safari, etc.)
 
-## **Features**
+## **🛠️Features**
 1. **Game Initialization** – Start a new round with two random cards
 2. **Card Generation** – Random card values (1-10) with proper face card handling
 3. **Real-time Sum Calculation** – Automatic total calculation of card values
@@ -24,7 +24,7 @@ A fully functional, browser-based Blackjack game built with vanilla HTML, CSS, a
 8. **Responsive Styling** – Casino-themed green and gold interface
 9. **Game Rule Enforcement** – Prevents illegal moves (drawing after bust/blackjack)
 
-## **Processes**
+## **🪜Processes**
 1. **Initialization** – Player clicks "START GAME" triggering `startGame()`
 2. **Card Generation** – Two random cards generated via `getRandomCard()`
    - Numbers 2-10 retain face value
@@ -43,7 +43,7 @@ A fully functional, browser-based Blackjack game built with vanilla HTML, CSS, a
    - Player doesn't have blackjack (`hasBlackValue === false`)
 6. **State Management** – Boolean flags control game flow and prevent invalid actions
 
-## **Running the Project**
+## **🎮Running the Project**
 1. **Local Setup**:
    ```bash
    # Clone or download project files
@@ -68,7 +68,7 @@ A fully functional, browser-based Blackjack game built with vanilla HTML, CSS, a
 
 
 
-## **Project Preview**
+## **🔎Project Preview**
 The game presents a classic casino-themed interface:
 - **Color Scheme**: Dark green background with goldenrod accents
 - **Typography**: Large, clear text using Trebuchet MS font
@@ -81,7 +81,7 @@ The game presents a classic casino-themed interface:
   - Two primary buttons: START GAME and NEW CARD
   - Player information section (currently placeholder)
  
-## **Potential Enhancements**
+## **🎯Potential Enhancements**
 1. Player chip system and betting
 2. Dealer AI with turn-based gameplay
 3. Multiple round tracking
@@ -90,7 +90,7 @@ The game presents a classic casino-themed interface:
 6. Ace value choice (1 or 11)
 7. Game history and statistics
 
-## **Code Structure Highlights**
+## **🧩Code Structure Highlights**
 - **Modular Functions**: Each game action is handled by separate, reusable functions
 - **Global State Variables**: `cards`, `sum`, `isAlive`, `hasBlackValue` manage game progress
 - **DOM References**: Cached element references for efficient updates
