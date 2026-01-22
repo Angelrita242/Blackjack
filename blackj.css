@@ -1,0 +1,92 @@
+body {
+    background-color:rgb(3, 83, 3) ;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+button {
+    padding: 10px;
+    width: 200px;
+    margin-top: 15px;
+    background-color: goldenrod;
+    border-radius: 10px;
+    color: #016f32 ;
+    font-weight: bold;
+    border-color: beige;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* h1 {
+    color: goldenrod;
+}
+
+body {
+    background-color: rgb(3, 83, 3);
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+
+#message-El {
+    font-style: italic;
+}
+
+#start-El , #card-El {
+    color: #016f32;
+    background-color: goldenrod;
+    width: 200px;
+    font-weight: bold;
+    height: 50px;
+    border-radius: 10px;
+
+}  */
