@@ -5,8 +5,8 @@
 A fully functional, browser-based Blackjack game built with vanilla HTML, CSS, and JavaScript. This project simulates the classic casino card game where players aim to get a hand value as close to 21 as possible without going over. The game features intuitive controls, real-time card tracking, and dynamic game state management, providing an engaging single-player Blackjack experience.
 
 ## **⚙️Tools and Tech**
-- **HTML5** – Game structure and semantic markup
-- **CSS3** – Styling and visual presentation
+- **HTML** – Game structure and semantic markup
+- **CSS** – Styling and visual presentation
 - **Vanilla JavaScript (ES6+)** – Game logic and interactivity
 - **DOM Manipulation** – Real-time UI updates
 - **Github** – Project display
